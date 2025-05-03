@@ -8,7 +8,9 @@ Steppy is an project that repurposes parts from the Creality Ender 3 V2 3D print
 
 ## 🎥 Video Demonstration
 
-https://github.com/owner/Steppy/blob/main/drivetrain.mp4
+<video src="drivetrain.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ## 🎯 Project Goals
 

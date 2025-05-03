@@ -6,7 +6,8 @@ __pycache__/
 BOSL2
 creality-ender-3-v2-2.snapshot.5
 .codex
-
+.DS_Store
+*.gcode
 # C extensions
 *.so
 
