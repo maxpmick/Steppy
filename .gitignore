@@ -8,6 +8,7 @@ creality-ender-3-v2-2.snapshot.5
 .codex
 .DS_Store
 *.gcode
+.gitattributes
 # C extensions
 *.so
 
