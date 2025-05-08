@@ -11,6 +11,11 @@ creality-ender-3-v2-2.snapshot.5
 # C extensions
 *.so
 
+pico_code/config.py
+Steppy-Code
+.DS_Store
+
+marlin
 # Distribution / packaging
 .Python
 build/
@@ -162,3 +167,5 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+**/.claude/settings.local.json
